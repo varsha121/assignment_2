@@ -1,0 +1,26 @@
+.header {
+  text-align: center;
+  color:lightseagreen;
+}
+
+.scorecard-container{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+}
+
+.card{
+  border-radius:10px;
+  padding:16px;
+  box-sizing:border-box;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.card,h1{
+  text-align:center;
+  color:rgb(42, 166, 207);
+}
+.scores{
+  color:black;
+}
+
+
